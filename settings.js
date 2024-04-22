@@ -21,8 +21,8 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['918512849649'],['919654970780'] //ur owner number
-global.ownernomer = "918512849649" //ur owner number2
+global.owner = ['919654970780'] //ur owner number
+global.ownernomer = "919654970780" //ur owner number2
 global.ownername = "KING B2K ✓" //ur owner name
 global.ytname = "Danielrajput" //ur yt chanel name
 global.socialm = "GitHub: DANIELRAJPUT" //ur github or insta name
@@ -30,18 +30,18 @@ global.location = "India, Delhi, Shahdra" //ur location
 
 //new
 global.botname = "KING B2K ✓"
-global.ownernumber = '918512849649'
+global.ownernumber = '919654970780'
 global.ownername = 'KING B2K ✓'
-global.ownerNumber = ["918512849649@s.whatsapp.net"]
+global.ownerNumber = ["919654970780@s.whatsapp.net"]
 global.ownerweb = "https://youtube.com/@DGXeon"
 global.websitex = "https://youtu.be/L_SIk59QeAU"
-global.wagc = "https://chat.whatsapp.com/Bkp0IXmbNhF2h4jZbH5I34"
+global.wagc = "https://chat.whatsapp.com/Jbl8ObPO5SeAdVhSQyhCCk"
 global.themeemoji = '🥵'
 global.wm = "KING B2K ✓ Bot Inc."
 global.botscript = 'https://github.com/DANIELRAJPUT/CheemsBot-MD6' //script link
 global.packname = "KING B2K ✓"
 global.author = ""
-global.creator = "918512849649@s.whatsapp.net"
+global.creator = "919654970780@s.whatsapp.net"
 global.prefa = ['','!','.','#','&']
 global.sessionName = 'session'
 global.hituet = 0
@@ -61,7 +61,7 @@ global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutp
 
 //messages
 global.mess = {
-    success: 'Le Babu!', 
+    success: 'Lo Babu!😚', 
 }
 
 let file = require.resolve(__filename)
