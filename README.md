@@ -2,7 +2,7 @@
 
 <h1 align="center">ꪶᴋᴀᴘɪɪ ʙᴏᴛꫂ<br></h1>
 <p align="center">
-<img src="[https://i.ibb.co/cLtCXVm/cheemspic.jpg](https://telegra.ph/file/264e5e05d77ca3caa642f.jpg)" width="540" height="280" />
+<img src="[https://i.ibb.co/cLtCXVm/cheemspic.jpg](https://ibb.co.com/fqLgHzP)" width="540" height="280" />
 </p>
 
 <p align="center">
