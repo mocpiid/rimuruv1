@@ -1,3 +1,3 @@
 {
-	"name": "ᴋᴀᴘɪɪ ʙᴏᴛ "
+	"name": "Cheems Bot Multi Device "
 }
